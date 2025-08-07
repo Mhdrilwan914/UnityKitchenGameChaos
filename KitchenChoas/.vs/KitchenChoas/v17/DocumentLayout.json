@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhdri\\KitchenChoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|C:\\Users\\mhdri\\KitchenChoas\\assets\\_assets\\script\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|C:\\Users\\mhdri\\KitchenChoas\\assets\\_assets\\script\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|c:\\users\\mhdri\\kitchenchoas\\assets\\_assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|C:\\Users\\mhdri\\KitchenChoas\\assets\\_assets\\script\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|C:\\Users\\mhdri\\KitchenChoas\\assets\\_assets\\script\\selectedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\selectedcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|C:\\Users\\mhdri\\KitchenChoas\\assets\\_assets\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54844945-0F05-B1A9-735D-68F3215D88B2}|Assembly-CSharp.csproj|solutionrelative:assets\\_assets\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\KitchenObject.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\KitchenObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:13:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwH8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:35:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectedCounter.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\SelectedCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\SelectedCounter.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\SelectedCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\SelectedCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:00:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\GameInput.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\GameInput.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\GameInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:57:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\PlayerAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:37:47.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Assets\\Script\\ClearCounter.cs",
+              "ToolTip": "C:\\Users\\mhdri\\KitchenChoas\\Assets\\_Assets\\Script\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\_Assets\\Script\\ClearCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:36:24.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
