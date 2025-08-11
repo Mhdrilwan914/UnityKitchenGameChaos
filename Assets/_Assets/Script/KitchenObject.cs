@@ -13,6 +13,8 @@ public class KitchenObject : MonoBehaviour
     public void SetClearCounter(ClearCounter clearCounter)
     {
         _clearCounter = clearCounter;
+        transform.parent = clearCounter.GetTransformTopPoint();
+        transform.localPosition = Vector3.zero;
     }
 
     public ClearCounter GetClearCounter()

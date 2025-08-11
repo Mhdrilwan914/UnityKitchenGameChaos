@@ -19,6 +19,8 @@ public class ClearCounter : MonoBehaviour
 
                 KitchenObject.SetClearCounter(_clearCounter);
                 Debug.Log("Clear counter " + KitchenObject.GetClearCounter());
+
+                KitchenObject.transform.position = _clearCounter._counterTopPoint.position;
             }
         }
     }
@@ -37,5 +39,10 @@ public class ClearCounter : MonoBehaviour
         }
 
 
+    }
+
+    public Transform GetTransformTopPoint()
+    {
+        return _counterTopPoint;
     }
 }

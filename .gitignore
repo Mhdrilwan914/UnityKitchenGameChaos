@@ -9,6 +9,7 @@ Logs/
 
 # User-specific files
 UserSettings/
+.vs
 .vscode/
 .idea/
 *.csproj
