@@ -1,6 +1,8 @@
+using com.feelzgame.kitchenchaos;
+using com.feelzgame.kitchenchaos.iKitchenparent;
 using UnityEngine;
 
-public class ClearCounter : MonoBehaviour
+public class ClearCounter : MonoBehaviour, IKitchenObjectParent
 {
     [SerializeField] private KitchenObjectSO kitchenObjectSo;
     [SerializeField] private Transform _counterTopPoint;
@@ -16,23 +18,23 @@ public class ClearCounter : MonoBehaviour
         {
             if (KitchenObject != null)
             {
-                KitchenObject.SetClearCounter(_clearCounter);
+                KitchenObject.SetKitchenObjectParent(_clearCounter);
                 //Debug.Log("Clear counter " + KitchenObject.GetClearCounter());
             }
         }
     }
-    public void Interact()
+    public void Interact(PlayerController player)
     {
         if (KitchenObject == null)
         {
             var kitchenObjectTransform = Instantiate(kitchenObjectSo.Prefab, _counterTopPoint);
             kitchenObjectTransform.localPosition = Vector3.zero;
             KitchenObject = kitchenObjectTransform.GetComponent<KitchenObject>();
-            KitchenObject.SetClearCounter(this);
+            KitchenObject.SetKitchenObjectParent(this);
         }
         else
         {
-            Debug.Log("Clear counter " + KitchenObject.GetClearCounter());
+           // KitchenObject.SetKitchenObjectParent(this);
         }
 
 
